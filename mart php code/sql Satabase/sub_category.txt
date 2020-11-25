@@ -1,0 +1,148 @@
+INSERT INTO sub_category(cat_id,sub_name) VALUES ([value-2],[value-3])
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (27,'');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (28,'');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (29,'');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (30,'');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (31,'');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (32,'');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (33,'');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (34,'');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (35,'');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (36,'');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (37,'');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (38,'');
+
+
+
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (27,'Fresh Vegetables');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (27,'Herbs & Seasonings');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (27,'Fresh Fruits');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (27,'Cuts & Sprouts');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (27,'Exotic Fruits & Veggies');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (27,'Organic Fruits & Vegetables');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (27,'Flower Bouquets, Bunche');
+
+
+
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (28,'Atta, Flours & Sooji');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (28,'Rice & Rice Products');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (28,'Dals & Pulses');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (28,'Salt, Sugar & Jaggery');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (28,'Edible Oils & Ghee');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (28,'Organic Staplesv');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (28,'Masalas & Spices');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (28,'Dry Fruits');
+
+
+
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (29,'Dairy');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (29,'Breads & Buns');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (29,'Cookies, Rusk & Khari');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (29,'Gourmet Breads');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (29,'Bakery Snacks');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (29,'Ice Creams & Desserts');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (29,'Cakes & Pastries');
+
+
+
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (30,'Water');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (30,'Health Drink, Supplement');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (30,'Tea');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (30,'Coffee');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (30,'Energy & Soft Drinks');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (30,'Fruit Juices & Drinks');
+
+
+
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (31,'Breakfast Cereals');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (31,'Noodle, Pasta, Vermicelli');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (31,'Biscuits & Cookies');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (31,'Frozen Veggies & Snacks');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (31,'Snacks & Namkeen');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (31,'Spreads, Sauces, Ketchup');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (31,'Ready To Cook & Eat');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (31,'Chocolates & Candies');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (31,'Pickles & Chutney');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (31,'Indian Mithai');
+
+
+
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (32,'Oral Care');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (32,'Feminine Hygiene');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (32,'Bath & Hand Wash');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (32,'Hair Care');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (32,'Health & Medicine');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (32,'Men"s Grooming');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (32,'Skin Care');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (32,'Fragrances & Deos');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (32,'Makeup');
+
+
+
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (33,'Detergents & Dishwash');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (33,'All Purpose Cleaners');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (33,'Disposables, Garbage Bag');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (33,'Fresheners & Repellents');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (33,'Mops, Brushes & Scrubs');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (33,'Bins & Bathroom Ware');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (33,'Pooja Needs');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (33,'Car & Shoe Care');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (33,'Party & Festive Needs');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (33,'Stationery');
+
+
+
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (34,'Pet Food & Accessories');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (34,'Steel Utensils');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (34,'Gardening');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (34,'Cookware & Non Stick');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (34,'Appliances & Electricals');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (34,'Kitchen Accessories');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (34,'Flask & Casserole');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (34,'Crockery & Cutlery');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (34,'Bakeware');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (34,'Storage & Accessories');
+
+
+
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (35,'Eggs');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (35,'Poultry');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (35,'Mutton & Lamb');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (35,'Sausages, Bacon & Salami');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (35,'Pork & Other Meats');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (35,'Fish & Seafood');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (35,'Marinades');
+
+
+
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (36,'Oils & Vinegar');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (36,'Dairy & Cheese');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (36,'Snacks, Dry Fruits, Nuts');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (36,'Pasta, Soup & Noodles');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (36,'Cooking & Baking Needs');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (36,'Chocolates & Biscuits');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (36,'Sauces, Spreads & Dips');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (36,'Cereals & Breakfast');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (36,'Drinks & Beverages');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (36,'Tinned & Processed Food');
+
+
+
+
+INSERT INTO sub_category(cat_id,sub_name) VALUES (37,'Diapers & Wipes');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (37,'Baby Food & Formula');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (37,'Baby Bath & Hygiene');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (37,'Mothers & Maternity');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (37,'Feeding & Nursing');
+INSERT INTO sub_category(cat_id,sub_name) VALUES (37,'Baby Accessories');

@@ -1,0 +1,33 @@
+
+INSERT INTO pro_category(`cat_name`) VALUES ('Fruits & Vegetables');
+INSERT INTO pro_category(`cat_name`) VALUES ('Foodgrains, Oil & Masala');
+INSERT INTO pro_category(`cat_name`) VALUES ('Bakery, Cakes & Dairy');
+INSERT INTO pro_category(`cat_name`) VALUES ('Beverages');
+INSERT INTO pro_category(`cat_name`) VALUES ('Snacks & Branded Foods');
+INSERT INTO pro_category(`cat_name`) VALUES ('Beauty & Hygiene');
+INSERT INTO pro_category(`cat_name`) VALUES ('Cleaning & Household');
+INSERT INTO pro_category(`cat_name`) VALUES ('Kitchen, Garden & Pets');
+INSERT INTO pro_category(`cat_name`) VALUES ('Eggs, Meat & Fish');
+INSERT INTO pro_category(`cat_name`) VALUES ('Gourmet & World Food');
+INSERT INTO pro_category(`cat_name`) VALUES ('Baby Care');
+INSERT INTO pro_category(`cat_name`) VALUES ('View All');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
